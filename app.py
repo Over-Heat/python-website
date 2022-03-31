@@ -59,4 +59,5 @@ with pp.container():
 
 
 
-#contine
+#contiue
+#talk about experinces: teaching, internship or stuff on the resume, python xp etc
